@@ -56,6 +56,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions, feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
 
----
-
-Feel free to customize this further to fit your specific needs!
