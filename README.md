@@ -1,6 +1,3 @@
-Sure, here's a README for your GitHub app named "dashboard," with emojis included:
-
----
 
 # 📊 Dashboard
 
